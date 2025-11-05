@@ -34,33 +34,28 @@ The analysis focused on both **numerical data (Price)** and **categorical data (
 
 <img width="794" height="682" alt="image" src="https://github.com/user-attachments/assets/6b9ce545-7ecc-4f25-bb88-45fdea819172" />
 
-The chart shows that **Black (49 pairs), Brown (35 pairs), and Blue (24 pairs)** are the three most common shoe colors in the dataset.
+The chart below shows the number of shoes by color in the dataset.
+It highlights which colors are most common and therefore most popular among customers.
 
-These colors are **neutral and classic**, making them highly versatile and appealing to a wide range of customers.
+**Black (49 pairs), Brown (35 pairs), and Blue (24 pairs)** are the most common colors.
 
-Because of their popularity, brands tend to **produce these colors in larger quantities**, using them as **core products** to maintain stable sales volume.
+Neutral tones dominate the dataset → easy to match, timeless, and appeal to most customers.
 
-When compared with the price data, these popular colors generally have **average or slightly lower prices** than rare colors like **Silver, Red, or Navy & Red**, which appear in smaller numbers.
+Bright or rare colors (Red, Silver, Pink, Yellow) are produced less, showing niche or limited demand.
 
-This suggests **a negative relationship between color frequency and price** as a color becomes more common, it is often priced lower to remain competitive in the mass market, while limited or unique colors can be priced higher to emphasize exclusivity and brand differentiation.
+Relationship:
 
-This relationship is meaningful because it helps companies **balance between volume and profit:**
+-The more **neutral the color,** the **higher** its production and popularity.
 
-- Popular colors (e.g., Black, Brown) → used to drive sales volume with affordable pricing.
+-The more **unique or bright** the color, the **lower** its production volume.
 
-- Rare colors (e.g., Red, Silver) → positioned as premium items with higher prices and lower stock.
+| Role                   | Why It Matters                                                   |
+| ---------------------- | ---------------------------------------------------------------- |
+| **Product Managers**   | Decide which colors to mass-produce vs. limited edition.         |
+| **Marketing Teams**    | Plan campaigns around popular, high-demand colors.               |
+| **Inventory Managers** | Manage stock more efficiently by predicting high-selling colors. |
 
-Such insights are valuable for **Marketing, Merchandising, and Product Managers,**
 
-who can use this analysis to:
-
-* Plan **inventory and color mix** based on customer demand trends.
-* Adjust **pricing strategies** by product color.
-* Design **marketing campaigns** that align with customer preferences (e.g., neutrals for everyday wear, bright tones for limited editions).
-  
-The bar chart is appropriate for this categorical variable (Color) because it clearly displays the frequency of each color, making it easy to identify which colors dominate the dataset and how they may influence pricing and consumer behavior.
-
-**I chose this insight because it shows a clear connection between color popularity and pricing strategy. Neutral tones like black and brown are priced to sell in large volumes, while rare colors are priced higher for exclusivity. This helps brands decide how to balance production, pricing, and marketing focus for different customer segments.**
 
 ***Key Insight 2: Shoe Price Summary**
 
